@@ -20,3 +20,4 @@ Im 1-Spieler-Modus gibt es ⭐ Sterne. Im Shop kann man damit Schläger, Tische,
 5. Auf dem Android-Handy in Chrome öffnen → Menü ⋮ → „App installieren“ oder „Zum Startbildschirm hinzufügen“.
 
 Nach einem Update in `sw.js` die Zahl in `duelltisch-v1` erhöhen (z. B. `v2`). Dann laden die Handys die neue Version.
+s
